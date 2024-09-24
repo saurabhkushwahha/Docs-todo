@@ -1,2 +1,2 @@
-#DOCs
+
 ![DOCs](/Docs.png)
